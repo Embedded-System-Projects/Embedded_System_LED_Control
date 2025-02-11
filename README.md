@@ -19,7 +19,7 @@ The project is divided into three main stages:
    - **Microcontroller Used:** PIC24F04KA200
    - **Circuit Design:** Created using **Proteus 8.10** simulation software.
    - **Connections:**
-     - **Switch ON:** Red LED remains ON, Green LED blinks every 3 seconds.
+     - **Switch ON:** Red LED remains ON, Green LED blinks every 2 seconds.
      - **Switch OFF:** White LED turns ON, Red and Green LEDs turn OFF.
 
 2. **Firmware Development**
