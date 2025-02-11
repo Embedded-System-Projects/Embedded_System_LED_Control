@@ -39,24 +39,24 @@ git clone https://github.com/Kaleabt37/Embedded_System_LED_Control.git
 cd Embedded_System_LED_Control
 ```
 ### **2. Open the Proteus Project**
-```bash
-# Navigate to the ProteusProject folder
-# Open the PIC24F04KA200-SPST-LEDs project file in Proteus
-```
+
+- Navigate to the ProteusProject folder
+- Open the PIC24F04KA200-SPST-LEDs project file in Proteus
+
 ### **3. Load the HEX File**
-```bash
-# In Proteus, double-click the PIC24F04KA200 microcontroller
-# In the Program File section, click the folder icon
-# Navigate to HexFile/ and select the PIC24F04KA200_SPST_LEDs.production.hex file
-```
+
+- In Proteus, double-click the PIC24F04KA200 microcontroller
+- In the Program File section, click the folder icon
+- Navigate to HexFile/ and select the PIC24F04KA200_SPST_LEDs.production.hex file
+
 ### **4. Run the Simulation**
-```bash
-# Click Run Simulation and observe the LED behavior
-```
+
+- Click Run Simulation and observe the LED behavior
+
 
 ## **Usage**
 ### **1. Microcontroller Behavior**
-```bash
+
 # Switch ON:  
 # - Red LED stays ON  
 # - Green LED blinks every 3 seconds  
@@ -64,7 +64,7 @@ cd Embedded_System_LED_Control
 # Switch OFF:  
 # - White LED turns ON  
 # - Red and Green LEDs turn OFF  
-```
+
 ### **2. How to Modify the Code**
 ```bash
 # Open the main.c file located in SourceCode/
