@@ -36,11 +36,10 @@ The project is divided into three main stages:
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/Kaleabt37/Embedded_System_LED_Control.git
-cd Embedded_System_LED_Control
 ```
 ### **2. Open the Proteus Project**
 
-- Navigate to the ProteusProject folder
+- Navigate to the ProteusProject folder in the Embedded_System_LED_Control folder
 - Open the PIC24F04KA200-SPST-LEDs project file in Proteus
 
 ### **3. Load the HEX File**
