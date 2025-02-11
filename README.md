@@ -1,6 +1,26 @@
 # Embedded System Design: LED Control with SPST Switch Using PIC24F04KA200
 This repository contains an embedded system project that demonstrates how to control three LEDs (Red, Green, and White) using an SPST switch. The project utilizes the **PIC24F04KA200** microcontroller, **Proteus 8.10** for simulation, and **MPLAB X IDE with XC8 Compiler** for code development.
 
+## Repository Structure:
+
+```bash
+📂 Embedded_System_LED_Control
+├── 📂 HexFile
+│   └── PIC24F04KA200_SPST_LEDs.production.hex
+├── 📂 SourceCode
+│   └── main.c
+├── 📂 ProteusProject
+│   └── PIC24F04KA200-SPST-LEDs.pdsprj
+├── 📂 Documentation
+│   ├── Embedded_Systems_Assignment_2.pdf
+│   ├── Circuit_Diagram.png
+├── LICENSE
+├── README.md
+└── requirements.txt
+
+
+```
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
