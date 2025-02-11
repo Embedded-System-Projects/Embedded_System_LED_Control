@@ -57,44 +57,44 @@ cd Embedded_System_LED_Control
 ## **Usage**
 ### **1. Microcontroller Behavior**
 
-# Switch ON:  
-# - Red LED stays ON  
-# - Green LED blinks every 3 seconds  
+- Switch ON:  
+  - Red LED stays ON  
+  - Green LED blinks every 3 seconds  
 
-# Switch OFF:  
-# - White LED turns ON  
-# - Red and Green LEDs turn OFF  
+- Switch OFF:  
+  - White LED turns ON  
+  - Red and Green LEDs turn OFF  
 
 ### **2. How to Modify the Code**
-```bash
-# Open the main.c file located in SourceCode/
-# Modify the delay times or LED logic as needed
-# Recompile the code using MPLAB X IDE
-# Generate a new HEX file and update the Proteus simulation
-```
+
+- Open the main.c file located in SourceCode/
+- Modify the delay times or LED logic as needed
+- Recompile the code using MPLAB X IDE
+- Generate a new HEX file and update the Proteus simulation
+
 
 ## **Software and Tools**
 ```bash
-| Software      | Purpose |
-|--------------|---------|
-| Proteus 8.10 | Circuit simulation |
+|   Software   |            Purpose           |
+|--------------|------------------------------|
+| Proteus 8.10 | Circuit simulation           |
 | MPLAB X IDE  | Writing and compiling C code |
-| XC8 Compiler | Generating HEX files |
+| XC8 Compiler | Generating HEX files         |
 ```
 
 ## **Dependencies**
-```bash
-# This project requires the following tools:
-# - Proteus 8.10 (for circuit design and testing)
-# - MPLAB X IDE (for developing and compiling the C code)
-# - XC8 Compiler (for compiling the source code)
-```
+
+- This project requires the following tools:
+  - Proteus 8.10 (for circuit design and testing)
+  - MPLAB X IDE (for developing and compiling the C code)
+  - XC8 Compiler (for compiling the source code)
+
 
 ## **Authors**
-```bash
-# This project was developed by Kaleab Tesfaye and Abdulbasit Hamid
-```
+
+- This project was developed by Kaleab Tesfaye and Abdulbasit Hamid
+
 
 ## **License**
-```bash
-# This project is licensed under the MIT License – see the LICENSE file for details.
+
+- This project is licensed under the MIT License – see the LICENSE file for details.
