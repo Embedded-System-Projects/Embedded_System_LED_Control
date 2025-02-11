@@ -84,10 +84,10 @@ git clone https://github.com/Kaleabt37/Embedded_System_LED_Control.git
 ## **Dependencies**
 
 - This project requires the following tools:
+  
   - Proteus 8.10 (for circuit design and testing)
   - MPLAB X IDE (for developing and compiling the C code)
   - XC8 Compiler (for compiling the source code)
-
 
 ## **Authors**
 
