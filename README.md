@@ -12,7 +12,7 @@ This repository contains an embedded system project that demonstrates how to con
 ├── 📂 ProteusProject
 │   └── PIC24F04KA200-SPST-LEDs.pdsprj
 ├── 📂 Documentation
-│   ├── Embedded_Systems_Assignment_2.pdf
+│   ├── Project Report 1.pdf
 │   ├── Circuit_Diagram.png
 ├── LICENSE
 ├── README.md
