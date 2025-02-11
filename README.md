@@ -24,6 +24,7 @@ This repository contains an embedded system project that demonstrates how to con
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Circuit Diagram](#circuit-diagram)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Software and Tools](#software-and-tools)
@@ -51,6 +52,9 @@ The project is divided into three main stages:
 3. **Simulation and Testing**
    - **Proteus Simulation:** The Proteus project is used to test the LED switching behavior before real-world implementation.
    - **HEX File Loading:** The compiled `.hex` file is loaded into the microcontroller inside Proteus for simulation.
+
+## Circuit Diagram
+   ![Circuit Diagram](Documentation/Circuit_Diagram.png)
 
 ## **Installation**
 ### **1. Clone the Repository**
