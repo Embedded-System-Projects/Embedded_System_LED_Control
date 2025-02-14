@@ -60,6 +60,7 @@ The project is divided into three main stages:
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/Kaleabt37/Embedded_System_LED_Control.git
+cd Embedded_System_LED_Control
 ```
 ### **2. Open the Proteus Project**
 
