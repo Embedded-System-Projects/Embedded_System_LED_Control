@@ -115,7 +115,7 @@ git clone https://github.com/Kaleabt37/Embedded_System_LED_Control.git
 
 ## **Authors**
 
-- This project was developed by Kaleab Tesfaye and Abdulbasit Hamid
+- This project was developed by Kaleab Tesfaye 
 
 
 ## **License**
